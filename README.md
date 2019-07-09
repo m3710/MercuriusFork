@@ -1,4 +1,4 @@
-# TuskyFork
+# MercuriusFork
 ![](/fastlane/metadata/android/en-US/images/icon.png)
 
 This is a fork of [tuskyapp/Tusky](https://github.com/tuskyapp/Tusky)!
