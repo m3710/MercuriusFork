@@ -24,9 +24,12 @@ In addition, this fork supports free speech and wishes to promote the original i
  - (Planned) Screen rotation impact
 
 
-## Original development team (Tusky)
-### Head of development
+## Development
+### Original development team (Tusky)
 This app was developed by [Vavassor@mastodon.social](https://mastodon.social/@Vavassor).
-The current maintainer is [ConnyDuck@chaos.social](https://chaos.social/@ConnyDuck).
+The current maintainer at the time of this fork was [ConnyDuck@chaos.social](https://chaos.social/@ConnyDuck).
+For further details visit the link to the original project (above).
+### TuskyFork
+The fork is being created by User [m3710](https://github.com/m3710).
 
 ### 
