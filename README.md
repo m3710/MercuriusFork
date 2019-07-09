@@ -1,5 +1,5 @@
 # MercuriusFork
-![](/fastlane/metadata/android/en-US/images/icon.png)
+![](/fastlane/metadata/android/en-US/images/mercurius_logo-s.png)
 
 This is a fork of [tuskyapp/Tusky](https://github.com/tuskyapp/Tusky)!
 This fork was created at the 9th of july 2019.
