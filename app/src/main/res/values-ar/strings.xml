@@ -219,8 +219,8 @@
     <string name="notification_title_summary">%d تفاعلات جديدة</string>
     <string name="description_account_locked">حساب مقفل</string>
     <string name="about_title_activity">عن التطبيق</string>
-    <string name="about_tusky_version">توسكي %s</string>
-    <string name="about_tusky_license">Tuksy برنامج حر و مفتوح المصدر.         مطور تحت رخصة GNU General Public License Version 3.         يمكنكم الإطلاع على الرخصة على : https://www.gnu.org/licenses/gpl-3.0.en.html</string>
+    <string name="about_mercurius_version">توسكي %s</string>
+    <string name="about_mercurius_license">Tuksy برنامج حر و مفتوح المصدر.         مطور تحت رخصة GNU General Public License Version 3.         يمكنكم الإطلاع على الرخصة على : https://www.gnu.org/licenses/gpl-3.0.en.html</string>
     <!-- note to translators:
          * you should think of “free” as in “free speech,” not as in “free beer”.
            We sometimes call it “libre software,” borrowing the French or Spanish word for “free” as in freedom,
@@ -228,10 +228,10 @@
          * the url can be changed to link to the localized version of the license.
     -->
     <string name="about_project_site">موقع المشروع :\n
-                   https://tusky.app</string>
+                   https://mercurius.app</string>
     <string name="about_bug_feature_request_site">تقارير الأخطاء و طلبات التحسينات على  :\n
-                   https://github.com/tuskyapp/Tusky/issues</string>
-    <string name="about_tusky_account">الملف الشخصي لتوسكي</string>
+                   https://github.com/m3710/MercuriusFork/</string>
+    <string name="about_mercurius_account">الملف الشخصي لتوسكي</string>
     <string name="status_share_content">شارك محتوى التبويق</string>
     <string name="status_share_link">شارك الرابط إلى التبويق</string>
     <string name="status_media_images">صور</string>

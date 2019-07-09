@@ -1,4 +1,4 @@
-Tusky v7.0
+Mercurius v7.0
 
 - Support for displaying polls, voting and poll notifications
 - New buttons to filter the notification tab and to delete all notifications

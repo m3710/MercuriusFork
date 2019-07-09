@@ -1,10 +1,12 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
     <!--These colors are not affected by themes or used in all themes.-->
-    <color name="tusky_blue">#2b90d9</color>
-    <color name="tusky_blue_light">#56a7e1</color>
-    <color name="tusky_orange">#ca8f04</color>
-    <color name="tusky_orange_light">#fab207</color>
+    <color name="mercurius_blue">#105A85</color>
+    <color name="mercurius_blue_light">#2F79A4</color>
+    <color name="mercurius_green">#384f36</color>
+    <color name="mercurius_green_light">#576E55</color>
+    <color name="mercurius_orange">#e0a00b</color>
+    <color name="mercurius_orange_light">#ebb842</color>
 
     <color name="toolbar_view_media">#8f000000</color>
     <color name="header_background_filter">#44000000</color>
@@ -12,10 +14,10 @@
     <color name="white">#ffffff</color>
 
     <!--Dark Theme Colors-->
-    <color name="color_primary_dark">#4c5368</color>
-    <color name="color_primary_dark_dark">#313543</color> <!--Dark Dark-->
+    <color name="color_primary_dark">#6d5e54</color>
+    <color name="color_primary_dark_dark">#4e3f35</color> <!--Dark Dark-->
     <color name="color_background_dark">#1a1c23</color>
-    <color name="window_background_dark">#282c37</color>
+    <color name="window_background_dark">#382c29</color>
     <color name="text_color_primary_dark">#ffffff</color>
     <color name="text_color_secondary_dark">#d9e1e8</color>
     <color name="text_color_tertiary_dark">#9baec8</color>
@@ -63,7 +65,7 @@
 
     <!-- colors used in the elephant friend drawables -->
     <color name="elephant_friend_border_color">#121419</color>
-    <color name="elephant_friend_accent_color">@color/tusky_blue</color>
+    <color name="elephant_friend_accent_color">@color/mercurius_blue</color>
     <color name="elephant_friend_body_color">#9BAEC8</color>
     <color name="elephant_friend_dark_body_color_1">#8192A6</color>
     <color name="elephant_friend_dark_body_color_2">#7F90A4</color>

@@ -3,9 +3,12 @@
     <item>
         <color android:color="@color/color_primary_dark_dark"/>
     </item>
-    <item>
+    <item
+        android:height="120dp"
+        android:width="120dp"
+        android:gravity="center">
         <bitmap
             android:src="@drawable/splash"
-            android:gravity="center" />
+            android:gravity="fill" />
     </item>
 </layer-list>

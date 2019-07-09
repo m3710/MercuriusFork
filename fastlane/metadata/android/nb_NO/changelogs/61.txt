@@ -1,4 +1,4 @@
-Tusky v7.0
+Mercurius v7.0
 
 - Støtte for avstemninger.
 - Nye knapper for å filtrere varslinger, og for å slette alle varslinger

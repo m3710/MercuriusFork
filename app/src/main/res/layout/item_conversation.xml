@@ -204,7 +204,7 @@
         app:layout_constraintTop_toBottomOf="@id/button_toggle_content"
         tools:visibility="gone">
 
-        <com.keylesspalace.tusky.view.MediaPreviewImageView
+        <com.m3710.mercurius.view.MediaPreviewImageView
             android:id="@+id/status_media_preview_0"
             android:layout_width="0dp"
             android:layout_height="@dimen/status_media_preview_height"
@@ -214,7 +214,7 @@
             app:layout_constraintTop_toTopOf="parent"
             tools:ignore="ContentDescription" />
 
-        <com.keylesspalace.tusky.view.MediaPreviewImageView
+        <com.m3710.mercurius.view.MediaPreviewImageView
             android:id="@+id/status_media_preview_1"
             android:layout_width="0dp"
             android:layout_height="@dimen/status_media_preview_height"
@@ -226,7 +226,7 @@
             tools:ignore="ContentDescription" />
 
 
-        <com.keylesspalace.tusky.view.MediaPreviewImageView
+        <com.m3710.mercurius.view.MediaPreviewImageView
             android:id="@+id/status_media_preview_2"
             android:layout_width="0dp"
             android:layout_height="@dimen/status_media_preview_height"
@@ -237,7 +237,7 @@
             app:layout_constraintTop_toBottomOf="@+id/status_media_preview_0"
             tools:ignore="ContentDescription" />
 
-        <com.keylesspalace.tusky.view.MediaPreviewImageView
+        <com.m3710.mercurius.view.MediaPreviewImageView
             android:id="@+id/status_media_preview_3"
             android:layout_width="0dp"
             android:layout_height="@dimen/status_media_preview_height"
@@ -452,8 +452,8 @@
         sparkbutton:activeImage="?attr/status_favourite_active_drawable"
         sparkbutton:iconSize="28dp"
         sparkbutton:inactiveImage="?attr/status_favourite_inactive_drawable"
-        sparkbutton:primaryColor="@color/tusky_orange"
-        sparkbutton:secondaryColor="@color/tusky_orange_light" />
+        sparkbutton:primaryColor="@color/mercurius_orange"
+        sparkbutton:secondaryColor="@color/mercurius_orange_light" />
 
     <ImageButton
         android:id="@+id/status_more"

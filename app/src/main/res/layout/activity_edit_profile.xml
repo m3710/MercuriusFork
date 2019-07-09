@@ -4,7 +4,7 @@
     xmlns:tools="http://schemas.android.com/tools"
     android:layout_width="match_parent"
     android:layout_height="match_parent"
-    tools:context="com.keylesspalace.tusky.EditProfileActivity">
+    tools:context="com.m3710.mercurius.EditProfileActivity">
 
     <include layout="@layout/toolbar_basic" />
 
@@ -92,7 +92,7 @@
                 app:layout_constraintTop_toBottomOf="@id/avatarPreview">
 
                 <com.google.android.material.textfield.TextInputLayout
-                    style="@style/TuskyTextInput"
+                    style="@style/MercuriusTextInput"
                     android:layout_width="match_parent"
                     android:layout_height="wrap_content"
                     android:layout_marginStart="16dp"
@@ -110,7 +110,7 @@
                 </com.google.android.material.textfield.TextInputLayout>
 
                 <com.google.android.material.textfield.TextInputLayout
-                    style="@style/TuskyTextInput"
+                    style="@style/MercuriusTextInput"
                     android:layout_width="match_parent"
                     android:layout_height="wrap_content"
                     android:layout_marginStart="16dp"
@@ -168,7 +168,7 @@
 
                 <Button
                     android:id="@+id/addFieldButton"
-                    style="@style/TuskyButton"
+                    style="@style/MercuriusButton"
                     android:layout_width="wrap_content"
                     android:layout_height="wrap_content"
                     android:layout_gravity="end"

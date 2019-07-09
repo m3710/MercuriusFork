@@ -48,7 +48,7 @@
 
     <Button
         android:id="@+id/buttonMute"
-        style="@style/TuskyButton"
+        style="@style/MercuriusButton"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         android:minWidth="@dimen/min_report_button_width"
@@ -71,7 +71,7 @@
 
     <Button
         android:id="@+id/buttonBlock"
-        style="@style/TuskyButton"
+        style="@style/MercuriusButton"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         android:minWidth="@dimen/min_report_button_width"
@@ -94,7 +94,7 @@
 
     <Button
         android:id="@+id/buttonDone"
-        style="@style/TuskyButton"
+        style="@style/MercuriusButton"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         android:layout_marginTop="32dp"

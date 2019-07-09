@@ -119,7 +119,7 @@
 
             </LinearLayout>
 
-            <com.keylesspalace.tusky.view.EditTextTyped
+            <com.m3710.mercurius.view.EditTextTyped
                 android:id="@+id/composeEditField"
                 android:layout_width="match_parent"
                 android:layout_height="wrap_content"
@@ -208,7 +208,7 @@
         app:behavior_peekHeight="0dp"
         app:layout_behavior="com.google.android.material.bottomsheet.BottomSheetBehavior" />
 
-    <com.keylesspalace.tusky.view.ComposeOptionsView
+    <com.m3710.mercurius.view.ComposeOptionsView
         android:id="@+id/composeOptionsBottomSheet"
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
@@ -303,9 +303,9 @@
             android:textSize="?attr/status_text_medium"
             tools:text="500" />
 
-        <com.keylesspalace.tusky.view.TootButton
+        <com.m3710.mercurius.view.TootButton
             android:id="@+id/composeTootButton"
-            style="@style/TuskyButton"
+            style="@style/MercuriusButton"
             android:layout_width="@dimen/toot_button_width"
             android:layout_height="wrap_content"
             android:layout_marginStart="10dp"

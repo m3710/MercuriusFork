@@ -1,4 +1,4 @@
-Tusky v7.0
+Mercurius v7.0
 
 - Supporte l'affichage, le vote et les notifications des sondages
 - Nouveaux boutons pour filtrer les notification et effacer toutes les notifications

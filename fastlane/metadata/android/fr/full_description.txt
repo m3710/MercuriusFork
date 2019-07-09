@@ -1,4 +1,4 @@
-Tusky est un client leger pour Mastodon, un réseau social libre et en code ouvert.
+Mercurius est un client leger pour Mastodon, un réseau social libre et en code ouvert.
 
 • Design Material
 • La plupart de l'API Mastodon est implémentée

@@ -210,7 +210,7 @@
     <string name="notification_title_summary">%d új interakció</string>
     <string name="description_account_locked">Zárolt fiók</string>
     <string name="about_title_activity">Rólunk</string>
-    <string name="about_tusky_version">Tusky %s</string>
+    <string name="about_mercurius_version">Mercurius %s</string>
     <!-- note to translators:
          * you should think of “free” as in “free speech,” not as in “free beer”.
            We sometimes call it “libre software,” borrowing the French or Spanish word for “free” as in freedom,
@@ -218,11 +218,11 @@
          * the url can be changed to link to the localized version of the license.
     -->
     <string name="about_project_site">        Projekt honlapja:\n
-        https://tusky.app
+        https://mercurius.app
     </string>
     <string name="about_bug_feature_request_site">Hibajelentés &amp; új funkciók igénylése:
-\n https://github.com/tuskyapp/Tusky/issues</string>
-    <string name="about_tusky_account">Tusky profilja</string>
+\n https://github.com/m3710/MercuriusFork/</string>
+    <string name="about_mercurius_account">Mercurius profilja</string>
     <string name="status_share_content">Tülk tartalmának megosztása</string>
     <string name="status_share_link">Tülk linkjének megosztása</string>
     <string name="status_media_images">Képek</string>
@@ -255,7 +255,7 @@
     <string name="performing_lookup_title">Keresés…</string>
     <string name="action_open_toot">Tülk megnyitása</string>
     <string name="restart_required">Az app újraindítása szükséges</string>
-    <string name="restart_emoji">A beállítások érvényesítéséhez újra kell indítani a Tusky-t</string>
+    <string name="restart_emoji">A beállítások érvényesítéséhez újra kell indítani a Mercurius-t</string>
     <string name="later">Később</string>
     <string name="restart">Újraindítás</string>
     <string name="caption_systememoji">Az eszközöd alap emoji készlete</string>
@@ -264,7 +264,7 @@
     <string name="download_failed">Letöltés sikertelen</string>
     <string name="profile_badge_bot_text">Bot</string>
     <string name="account_moved_description">%1$s elköltözött:</string>
-    <string name="license_description">A Tusky a következő nyílt forráskódú projektekből tartalmaz programkódot és más elemeket:</string>
+    <string name="license_description">A Mercurius a következő nyílt forráskódú projektekből tartalmaz programkódot és más elemeket:</string>
     <string name="license_cc_by_4">CC-BY 4.0</string>
     <string name="license_cc_by_sa_4">CC-BY-SA 4.0</string>
     <string name="profile_metadata_label">Profil metaadatok</string>
@@ -304,7 +304,7 @@
     <string name="notification_poll_description">Értesítés a befejezett szavazásokról</string>
 
 
-    <string name="about_tusky_license">Tusky ingyenes és nyílt forráskódú szoftver. A GNU General Public License Version 3 érvényes rá, amit itt tekinthetsz meg: https://www.gnu.org/licenses/gpl-3.0.en.html</string>
+    <string name="about_mercurius_license">Mercurius ingyenes és nyílt forráskódú szoftver. A GNU General Public License Version 3 érvényes rá, amit itt tekinthetsz meg: https://www.gnu.org/licenses/gpl-3.0.en.html</string>
     <string name="abbreviated_in_years">%dé múlva</string>
     <string name="abbreviated_in_days">%dn múlva</string>
     <string name="abbreviated_in_hours">%dó múlva</string>

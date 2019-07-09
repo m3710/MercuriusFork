@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <manifest xmlns:android="http://schemas.android.com/apk/res/android"
     xmlns:tools="http://schemas.android.com/tools"
-    package="com.keylesspalace.tusky">
+    package="com.m3710.mercurius">
 
     <uses-permission android:name="android.permission.INTERNET" />
     <uses-permission android:name="android.permission.READ_EXTERNAL_STORAGE" />
@@ -15,9 +15,9 @@
         android:allowBackup="false"
         android:icon="@mipmap/ic_launcher"
         android:label="@string/app_name"
-        android:name=".TuskyApplication"
+        android:name=".MercuriusApplication"
         android:supportsRtl="true"
-        android:theme="@style/TuskyTheme">
+        android:theme="@style/MercuriusTheme">
 
         <activity
             android:name=".SplashActivity"
@@ -78,12 +78,12 @@
             </intent-filter>
             <meta-data
                 android:name="android.service.chooser.chooser_target_service"
-                android:value="com.keylesspalace.tusky.service.AccountChooserService"
+                android:value="com.m3710.mercurius.service.AccountChooserService"
                 />
         </activity>
         <activity
             android:name=".ComposeActivity"
-            android:theme="@style/TuskyDialogActivityTheme"
+            android:theme="@style/MercuriusDialogActivityTheme"
             android:windowSoftInputMode="stateVisible|adjustResize">
         </activity>
         <activity
@@ -91,7 +91,7 @@
             android:configChanges="orientation|screenSize" />
         <activity android:name=".ViewTagActivity" />
         <activity android:name=".ViewMediaActivity"
-            android:theme="@style/TuskyBaseTheme"
+            android:theme="@style/MercuriusBaseTheme"
             android:configChanges="orientation|screenSize|keyboardHidden"/>
         <activity android:name=".AccountActivity"
             android:configChanges="orientation|screenSize|keyboardHidden"/>
@@ -130,8 +130,8 @@
 
         <service
             tools:targetApi="24"
-            android:name="com.keylesspalace.tusky.service.TuskyTileService"
-            android:icon="@drawable/ic_tusky"
+            android:name="com.m3710.mercurius.service.MercuriusTileService"
+            android:icon="@drawable/ic_mercurius"
             android:label="Compose Toot"
             android:permission="android.permission.BIND_QUICK_SETTINGS_TILE">
             <intent-filter>
@@ -141,7 +141,7 @@
         <service android:name=".service.SendTootService" />
         <service
             tools:targetApi="23"
-            android:name="com.keylesspalace.tusky.service.AccountChooserService"
+            android:name="com.m3710.mercurius.service.AccountChooserService"
             android:label="@string/app_name"
             android:permission="android.permission.BIND_CHOOSER_TARGET_SERVICE"
             >

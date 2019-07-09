@@ -1,4 +1,4 @@
-Tusky er en lettvektsklient for Mastodon, et gratis/libre sosialt nettverk basert på åpen kildekode.
+Mercurius er en lettvektsklient for Mastodon, et gratis/libre sosialt nettverk basert på åpen kildekode.
 
 • Material Design
 • Støtter det meste av Mastodon-funksjonalitet

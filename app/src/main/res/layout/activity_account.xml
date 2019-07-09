@@ -57,7 +57,7 @@
 
                     <Button
                         android:id="@+id/accountFollowButton"
-                        style="@style/TuskyButton"
+                        style="@style/MercuriusButton"
                         android:layout_width="wrap_content"
                         android:layout_height="wrap_content"
                         android:layout_marginTop="6dp"
@@ -75,7 +75,7 @@
 
                     <com.google.android.material.button.MaterialButton
                         android:id="@+id/accountMuteButton"
-                        style="@style/TuskyButton.Outlined"
+                        style="@style/MercuriusButton.Outlined"
                         android:layout_width="wrap_content"
                         android:layout_height="0dp"
                         android:layout_marginStart="16dp"
@@ -105,7 +105,7 @@
                         android:textStyle="normal|bold"
                         app:layout_constraintStart_toStartOf="parent"
                         app:layout_constraintTop_toTopOf="parent"
-                        tools:text="Tusky Mastodon Client " />
+                        tools:text="Mercurius Mastodon Client " />
 
                     <TextView
                         android:id="@+id/accountUsernameTextView"
@@ -118,7 +118,7 @@
                         android:textSize="?attr/status_text_medium"
                         app:layout_constraintStart_toStartOf="parent"
                         app:layout_constraintTop_toBottomOf="@id/accountDisplayNameTextView"
-                        tools:text="\@Tusky" />
+                        tools:text="\@Mercurius" />
 
                     <ImageView
                         android:id="@+id/accountLockedImageView"
@@ -324,14 +324,14 @@
 
             <com.google.android.material.tabs.TabLayout
                 android:id="@+id/accountTabLayout"
-                style="@style/TuskyTabAppearance"
+                style="@style/MercuriusTabAppearance"
                 android:layout_width="match_parent"
                 android:layout_height="wrap_content"
 
                 android:background="?android:colorBackground"
                 app:tabGravity="center"
                 app:tabMode="scrollable"
-                app:tabTextAppearance="@style/TuskyTabAppearance" />
+                app:tabTextAppearance="@style/MercuriusTabAppearance" />
 
         </com.google.android.material.appbar.AppBarLayout>
 

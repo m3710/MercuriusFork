@@ -17,7 +17,7 @@ In addition, this fork supports free speech and wishes to promote the original i
 - Multi-Account support
 - Dark, light and black themes with the possibility to auto-switch based on the time of day
 - Drafts - compose toots and save them for later
-- Choose between different emoji styles 
+- Choose between different emoji styles
 - Optimized for all screen sizes
 - Completely open-source - no non-free dependencies like Google services
 ### This Fork
@@ -32,4 +32,4 @@ For further details visit the link to the original project (above).
 ### TuskyFork
 The fork is being created by User [m3710](https://github.com/m3710).
 
-### 
+###

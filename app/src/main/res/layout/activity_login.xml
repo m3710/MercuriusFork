@@ -6,7 +6,7 @@
     android:layout_height="match_parent"
     android:gravity="center"
     android:orientation="vertical"
-    tools:context="com.keylesspalace.tusky.LoginActivity">
+    tools:context="com.m3710.mercurius.LoginActivity">
 
     <ScrollView
         android:layout_width="match_parent"
@@ -22,12 +22,13 @@
             android:orientation="vertical"
             android:padding="16dp">
 
+            <!-- No elephant friend.
             <ImageView
                 android:layout_width="160dp"
                 android:layout_height="178dp"
                 android:layout_marginBottom="50dp"
                 android:contentDescription="@null"
-                app:srcCompat="@drawable/elephant_friend" />
+                app:srcCompat="@drawable/elephant_friend" /> -->
 
             <LinearLayout
                 android:id="@+id/loginInputLayout"
@@ -38,7 +39,7 @@
 
                 <com.google.android.material.textfield.TextInputLayout
                     android:id="@+id/domainTextInputLayout"
-                    style="@style/TuskyTextInput"
+                    style="@style/MercuriusTextInput"
                     android:layout_width="250dp"
                     android:layout_height="wrap_content"
                     android:hint="@string/hint_domain"
@@ -54,7 +55,7 @@
 
                 <com.google.android.material.button.MaterialButton
                     android:id="@+id/loginButton"
-                    style="@style/TuskyButton"
+                    style="@style/MercuriusButton"
                     android:layout_width="250dp"
                     android:layout_height="wrap_content"
                     android:layout_marginTop="8dp"

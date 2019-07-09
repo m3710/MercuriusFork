@@ -4,7 +4,7 @@
     xmlns:tools="http://schemas.android.com/tools"
     android:layout_width="match_parent"
     android:layout_height="match_parent"
-    tools:context="com.keylesspalace.tusky.AboutActivity">
+    tools:context="com.m3710.mercurius.AboutActivity">
 
     <include layout="@layout/toolbar_basic" />
 
@@ -52,8 +52,9 @@
                     android:textAlignment="center"
                     android:textIsSelectable="true"
                     android:textSize="16sp"
-                    tools:text="@string/about_tusky_license" />
+                    tools:text="@string/about_mercurius_license" />
 
+                <!-- No Github Pages yet
                 <TextView
                     android:id="@+id/aboutWebsiteInfoTextView"
                     android:layout_width="wrap_content"
@@ -65,7 +66,7 @@
                     android:textAlignment="center"
                     android:textIsSelectable="true"
                     android:textSize="16sp"
-                    tools:text="@string/about_project_site" />
+                    tools:text="@string/about_project_site" />-->
 
                 <TextView
                     android:id="@+id/aboutBugsFeaturesInfoTextView"
@@ -81,19 +82,19 @@
                     android:textSize="16sp" />
 
                 <Button
-                    android:id="@+id/tuskyProfileButton"
-                    style="@style/TuskyButton"
+                    android:id="@+id/mercuriusProfileButton"
+                    style="@style/MercuriusButton"
                     android:layout_width="wrap_content"
                     android:layout_height="wrap_content"
                     android:layout_marginTop="24dp"
                     android:lineSpacingMultiplier="1.2"
-                    android:text="@string/about_tusky_account"
+                    android:text="@string/about_mercurius_account"
                     android:textAllCaps="false"
                     android:textSize="16sp" />
 
                 <Button
                     android:id="@+id/aboutLicensesButton"
-                    style="@style/TuskyButton.Outlined"
+                    style="@style/MercuriusButton.Outlined"
                     android:layout_width="wrap_content"
                     android:layout_height="wrap_content"
                     android:layout_marginTop="12dp"

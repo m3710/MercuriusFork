@@ -64,9 +64,9 @@
     @retrofit2.http.* <methods>;
 }
 
--keep class com.keylesspalace.tusky.entity.** { *; }
+-keep class com.m3710.mercurius.entity.** { *; }
 
--keep public enum com.keylesspalace.tusky.entity.*$** {
+-keep public enum com.m3710.mercurius.entity.*$** {
     **[] $VALUES;
     public *;
 }

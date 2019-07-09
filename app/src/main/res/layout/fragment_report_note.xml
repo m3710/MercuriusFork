@@ -45,7 +45,7 @@
 
             <com.google.android.material.textfield.TextInputLayout
                 android:id="@+id/layoutAdditionalInfo"
-                style="@style/TuskyTextInput"
+                style="@style/MercuriusTextInput"
                 android:layout_width="0dp"
                 android:layout_height="wrap_content"
                 android:layout_marginTop="16dp"
@@ -107,7 +107,7 @@
 
     <Button
         android:id="@+id/buttonBack"
-        style="@style/TuskyButton.Outlined"
+        style="@style/MercuriusButton.Outlined"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         android:layout_marginEnd="16dp"
@@ -118,7 +118,7 @@
 
     <Button
         android:id="@+id/buttonReport"
-        style="@style/TuskyButton"
+        style="@style/MercuriusButton"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         android:layout_marginEnd="16dp"
